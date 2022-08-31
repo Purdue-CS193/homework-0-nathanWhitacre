@@ -1,3 +1,23 @@
+# Nathan Whitacre's First CS193 Homework
+
+My favorite things about CS193 are...
+- the fun little game things
+- the casual feel of the lectures
+- learning about terminal
+- that my lectures are in the pharmacy building for some reason
+- the lack of exams
+
+.
+.
+.
+_Disclaimer: Everything below this point is garbage nonsense._
+.
+.
+.
+.
+.
+.
+.
 # Testing, Testing,
 ## Is this thing on?
 
